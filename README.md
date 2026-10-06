@@ -51,10 +51,14 @@ label. Style source: Refero #59 Function, "Warm apothecary journal".
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Apothecary**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Apothecary** under Style Settings → Borozdov Trellis → Variant. The variant
+brings this theme's palette, type and corners; its own layout, and its embedded font if it
+has one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/apothecary/releases/latest)
 into `<vault>/.obsidian/themes/Borozdov Apothecary/`, then choose Borozdov Apothecary
 under Settings → Appearance → Themes.
@@ -69,5 +73,4 @@ MIT — see [LICENSE](LICENSE).
 дневник аптекаря на пергаменте, и тёмный «Mortar» — тот же дневник при свете лампы
 после закрытия лавки. Тёплые чернила несут любой текст на обоих ликах; единственный
 цвет — терракотовая печать, которой помечены ссылка, тег и кнопка. Шрифты не встроены.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov
-Apothecary → Установить и применить.
+В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Apothecary в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
